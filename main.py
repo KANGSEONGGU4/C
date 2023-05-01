@@ -1,14 +1,16 @@
 # Test python env
 def print_hello():
-    animals = ['dong','cat','hamster']
+    animals = ['dong','cat','hamster','tiger']
     foods = [
 	'pizza',
-	'kimchi'
+	'kimchi',
+	'bibibam'
     ]
     names = [
         'john',
-         'hane',
-         'dong'
+        'hane',
+        'dong',
+	'kang',
     ]
     for f_name in names:
         print(f'hi,{f_name}')
